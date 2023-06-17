@@ -2,7 +2,8 @@
 ---
 ## About the project
 
-This is **bookstore** project as part of the "Metropolia UAS REACT.JS FUNDAMENTALS' course. The project aims to introduce the fundamental concepts of React.js and provide hands-on experience with building a React application.
+This is the **bookstore** project, created as part of the "Metropolia UAS REACT.JS FUNDAMENTALS' course. The project aims to introduce the fundamental concepts of React.js and provide hands-on experience with building a React application.
+
 
 ## Task description
 
@@ -47,6 +48,7 @@ The defaut view.
 2.Install the dependencies.
 
 `cd bookstore`
+
 `npm install`
 
 
@@ -57,6 +59,12 @@ The defaut view.
 `npm start`
 
 2.Open your web browser and navigate to http://localhost:3000 to view the React application.
+
+## Deployment
+
+This project is deployed and can be accessed at [this link:](https://elenacoder.github.io/bookstore/)
+
+The deployment is done using GitHub Pages, which provides free hosting for static websites.
 
 ## Project Structure
 ```

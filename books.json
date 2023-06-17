@@ -1,0 +1,88 @@
+{
+    "books": {
+        "-MGvq69vFRNAi6N4RPPf": {
+            "title": "Anna Karenina",
+            "author": "Leo Tolstoy",
+            "year": "1877",
+            "isbn": "9780140864854",
+            "price": "13.5"
+        },
+        "-MGvqCptPhR1BMdNN2IQ": {
+            "title": "The Haunting of Hill House",
+            "author": "Shirley Jackson",
+            "year": "1992",
+            "isbn": "9780141191447",
+            "price": "9.75"
+        },
+        "-MJ3D0ZEnXatXQqwo1UZ": {
+            "author": "George Orwell",
+            "isbn": "9780451524935",
+            "price": "8.99",
+            "title": "1984",
+            "year": "1949"
+        },
+        "-MJ3D7IAKojLJHXaOjMJ": {
+            "author": "J.R.R. Tolkien",
+            "isbn": "9780618260584",
+            "price": "14.99",
+            "title": "The Hobbit",
+            "year": "1937"
+        },
+        "-MJ3DGgdIQyFRwHTtZ5c": {
+            "author": "Jane Austen",
+            "isbn": "9780486295558",
+            "price": "6.99",
+            "title": "Pride and Prejudice",
+            "year": "1813"
+        },
+        "-MJ3DOkCbez4qFFZt9oM": {
+            "author": "F. Scott Fitzgerald",
+            "isbn": "9780743273565",
+            "price": "9.95",
+            "title": "The Great Gatsby",
+            "year": "1925"
+        },
+        "-MJ3DWiYVJcmzsyb_pGc": {
+            "author": "Harper Lee",
+            "isbn": "9780060935467",
+            "price": "10.99",
+            "title": "To Kill a Mockingbird",
+            "year": "1960"
+        },
+        "-MJ3DcFXoqkk1x4TTi7O": {
+            "author": "Mark Twain",
+            "isbn": "9780140436336",
+            "price": "7.50",
+            "title": "Adventures of Huckleberry Finn",
+            "year": "1884"
+        },
+        "-MJ3Dilw6QyxH5XbHyC5": {
+            "author": "Emily Bronte",
+            "isbn": "9780141439556",
+            "price": "8.95",
+            "title": "Wuthering Heights",
+            "year": "1847"
+        },
+        "-MJ3Dr-kH04UtODRHqS0": {
+            "author": "Ray Bradbury",
+            "isbn": "9781451673319",
+            "price": "11.50",
+            "title": "Fahrenheit 451",
+            "year": "1953"
+        },
+        "-MJ3DwqBryh_1uy1smv3": {
+            "author": "Gabriel Garcia Marquez",
+            "isbn": "9780060883287",
+            "price": "12.99",
+            "title": "One Hundred Years of Solitude",
+            "year": "1967"
+        },
+        "-MJ3E0kOHvjnlXzZYuHT": {
+            "author": "Fyodor Dostoevsky",
+            "isbn": "9780679734505",
+            "price": "9.25",
+            "title": "Crime and Punishment",
+            "year": "1866"
+        }
+    }
+}

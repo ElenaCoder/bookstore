@@ -66,6 +66,10 @@ This project is deployed and can be accessed at [this link:](https://elenacoder.
 
 The deployment is done using GitHub Pages, which provides free hosting for static websites.
 
+## Firebase Database Access Expiry
+
+Please note that access to the Firebase database used in this project is set to expire on 2033-07-15. After this date, the database will no longer be accessible, and all associated data interactions will cease to function.
+
 ## Project Structure
 ```
 ├── public
